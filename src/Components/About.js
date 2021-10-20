@@ -37,11 +37,13 @@ class About extends Component {
                   <span>{phone}</span>
                   <br />
                   <span>
-                    <a href="mailto:balin@gatech.edu">{email}</a>
+                    <a href="mailto:"
+onclick="location.href=this.href+email;return false;">{email}</a>
                   </span>
                   <br />
                   <span>
-                    <a href="mailto:m.f.balin@gmail.com">{email2}</a>
+                    <a href="mailto:"
+onclick="location.href=this.href+email2;return false;">{email2}</a>
                   </span>
                 </p>
               </div>

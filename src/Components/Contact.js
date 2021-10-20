@@ -32,7 +32,7 @@ onclick="location.href=this.href+email;return false;">{email}</a>
             </span>
             <br />
             <span>
-            <a href="mailto:"
+              <a href="mailto:"
 onclick="location.href=this.href+email2;return false;">{email2}</a>
             </span>
           </div>
