@@ -1,10 +1,10 @@
-rm -rf css images js static;
+rm -rf docs
 
 npm run build;
 
-mv ./build/* ./;
+mv build docs;
 
-git add .;
+git add docs;
 
 git commit -m "Update";
 
