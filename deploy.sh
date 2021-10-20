@@ -1,11 +1,13 @@
 rm -rf docs
 
-npm run build;
+npm run build
 
-mv build docs;
+mv build docs
 
-git add docs;
+echo "mfbal.in" > docs/CNAME
 
-git commit -m "Update";
+git add docs
 
-git push;
+git commit -m "Update"
+
+git push
