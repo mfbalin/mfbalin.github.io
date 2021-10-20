@@ -6,7 +6,7 @@ mv build docs
 
 echo "mfbal.in" > docs/CNAME
 
-git add docs
+git add docs public src
 
 git commit -m "Update"
 
