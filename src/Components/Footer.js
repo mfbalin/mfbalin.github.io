@@ -24,10 +24,10 @@ class Footer extends Component {
               <li>
                 &copy; Copyright{" "}
                 <a
-                  title="Muhammed Fatih Balin"
+                  title="Kaan Sancak"
                   href=""
                 >
-                  Muhammed Fatih Balin
+                  Kaan Sancak
                 </a>
               </li>
               <li>
