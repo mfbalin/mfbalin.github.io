@@ -25,9 +25,9 @@ class Footer extends Component {
                 &copy; Copyright{" "}
                 <a
                   title="Muhammed Fatih Balin"
-                  href="mfbal.in"
+                  href=""
                 >
-                  Kaan Sancak
+                  Muhammed Fatih Balin
                 </a>
               </li>
               <li>
