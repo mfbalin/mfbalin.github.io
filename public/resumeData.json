@@ -6,7 +6,7 @@
     "image": "profilepic.jpg",
     "bio": "I am a PhD student advised by Umit V. Catalyurek in Computational Science and Engineering at Georgia Tech. My research interests include high-performance computing, graph analytics, graph processing systems, streaming graph algorithms, and community detection. Recently, I have been working on a framework for multi-GPU Graph Convolutional Neural Network (GCN) training.",
     "contactmessage": "You can contact me via e-mail",
-    "phone": "+1 470 645 7922",
+    "phone": "+1-470-645-7922",
     "email": "balin@gatech.edu",
     "email2": "m.f.balin@gmail.com",
     "address": {
@@ -15,7 +15,7 @@
       "state": "Georgia",
       "zip": "30308"
     },
-    "website": "https://www.cc.gatech.edu/~mbalin3/",
+    "website": "mfbal.in",
     "resumedownload": "/mfbalin_cv.pdf",
     "social": [
       {

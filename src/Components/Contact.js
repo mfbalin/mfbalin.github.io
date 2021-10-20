@@ -11,6 +11,7 @@ class Contact extends Component {
       var zip = this.props.data.address.zip;
       var phone = this.props.data.phone;
       var email = this.props.data.email;
+      var email2 = this.props.data.email2;
       var message = this.props.data.contactmessage;
     }
 
@@ -26,7 +27,8 @@ class Contact extends Component {
           <div className="ten columns">
             <p className="lead">{message}</p>
             <span>
-              <a href="mailto:balin@gatech.edu">balin@gatech.edu</a>
+              <a href="mailto:"
+onclick="location.href=this.href+email;return false;">{email}</a>
             </span>
             <br />
             <span>
