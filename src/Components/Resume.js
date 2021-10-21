@@ -81,24 +81,8 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-          <div key="Georgia Tech">
-            <h3>Georgia Tech</h3>
-            <p className="info">
-              {"Graduate Research Assistant"}
-              <span>&bull;</span> <em className="date">{"2019 - Present"}</em>
-            </p>
-            <p className="newline">
-              <ul>
-                <li>Working on HPC and graphanalytics as amember of TDALab.</li>
-                <li>Worked on fast and efficient heuristic algorithms to solve symmetric rectilinear partitioning problem. We have published our work under <a href="https://github.com/GT-TDAlab/SARMA">SARMA</a> library.</li>
-                <li>Workod on Elga, a framework for computing local dynamic graph algorithms for streaming graphs in a distributed, elastic environment. Paper submitted to SC 21.</li>
-                <li>Worked on streaming overlapping clustering in a distributed setting.</li>
-                <li>Recently, I have started working on Multi-GPU GCN training framework in order to efficiently parallelize training of GCNs or its variants.</li>
-              </ul>
-            </p>
-      </div>
             {work}
-            </div>
+          </div>
         </div>
 
         <div className="row skill">
