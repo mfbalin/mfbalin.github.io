@@ -99,16 +99,6 @@
     ],
     "skills": [
       {
-        "name": "Java",
-        "description": "I used Java for various course projects.",
-        "image": "java.jpg"
-      },
-      {
-        "name": "Python",
-        "description": "I started using Python at my first year as an undergraduate. I liked the fact that it is very easy to use. I used it for several research projects along with machine-deep learning frameworks.",
-        "image": "python.png"
-      },
-      {
         "name": "C++",
         "description": "Starting from high school, I have used C++ as my go to language for competitive programming. As I started Ph.D., C++ became an indispensable tool for me to implement parallel algorithms and data structures.",
         "image": "cpp.png"
@@ -117,6 +107,16 @@
         "name": "CUDA",
         "description": "I have used CUDA and related libraries to accelerate Graph Convolutional Network training on multiple GPUs.",
         "image": "cuda.jpg"
+      },
+      {
+        "name": "Python",
+        "description": "I started using Python at my first year as an undergraduate. I liked the fact that it is very easy to use. I used it for several research projects along with machine-deep learning frameworks.",
+        "image": "python.png"
+      },
+      {
+        "name": "Java",
+        "description": "I used Java for various course projects.",
+        "image": "java.jpg"
       },
       {
         "name": "Git",
