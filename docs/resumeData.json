@@ -2,10 +2,9 @@
   "main": {
     "name": "Muhammed Fatih Balin",
     "occupation": "Ph.D. Student at Georgia Tech",
-    "description": "I am a PhD student advised by Umit V. Catalyurek in Computational Science and Engineering at Georgia Tech. My research interests include high-performance computing, graph analytics, graph processing systems, streaming graph algorithms, and community detection. Recently, I have been working on a framework for multi-GPU Graph Convolutional Neural Network (GCN) training.",
+    "description": "I am a PhD student advised by Umit V. Catalyurek in Computational Science and Engineering at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on a framework for multi-GPU Graph Convolutional Neural Network (GCN) training.",
     "image": "profilepic.jpg",
-    "bio": "I am a PhD student advised by Umit V. Catalyurek in Computational Science and Engineering at Georgia Tech. My research interests include high-performance computing, graph analytics, graph processing systems, streaming graph algorithms, and community detection. Recently, I have been working on a framework for multi-GPU Graph Convolutional Neural Network (GCN) training.",
-    "contactmessage": "You can contact me via e-mail",
+    "contactmessage": "You can contact me via e-mail or give me a call",
     "phone": "+1-470-645-7922",
     "email": "balin@gatech.edu",
     "email2": "m.f.balin@gmail.com",
@@ -54,133 +53,96 @@
     "skillmessage": "I love learning new technologies and solving problems with programming.",
     "education": [
       {
-        "school": "Georgia Tech",
-        "degree": "Ph.D. in Computer Science",
+        "school": "Georgia Tech, USA",
+        "degree": "Ph.D. in Computational Science and Engineering",
         "graduated": "2019 - Present",
-        "description": "Focusing on High Performance Computing under supervision of Umit V. Catalyurek."
+        "description": "Focusing on High Performance Computing and Machine Learning advised by Umit V. Catalyurek"
       },
       {
         "school": "Boğaziçi University, Turkey",
         "degree": "B.Sc. in Computer Engineering and Mathematics (Double Major)",
         "graduated": "2015 - 2019",
         "description": "1st rank in class, 3rd rank in faculty"
+      },
+      {
+        "school": "Columbia University in the City of New York, USA",
+        "degree": "Non-degree Exchange Student in Computer Science",
+        "graduated": "2018 - Spring",
+        "description": "4.07 GPA in graduate level machine learning and computer science classes"
       }
     ],
     "work": [
       {
-        "company": "Facebook",
+        "company": "Pacific Northwest National Laboratory",
         "title": "Research Intern",
-        "years": "05.2020 – 08.2020",
-        "description": "I have worked on Facebook’s graph engine to improve the performance using different partitioning schemes. I have also collaborated with Instagram Ad team for integrating a clustering algorithm into Facebook pipeline."
+        "years": "05.2021 – 08.2021",
+        "description": "Developed distributed data structures and algorithms on the open source distributed programming framework SHAD."
       },
       {
-        "company": "i-Vis (Information Visualization) Research Lab",
-        "title": "Undergraduate Researcher",
-        "years": "2017 – 2019",
-        "description": "Studied on research and development data analytics and visualization of relational information (graph or network). Contributed Newt, implemented multiple features."
-      },
-      {
-        "company": "Google Summer of Code 2018",
-        "title": "Software Developer",
-        "years": "05.2018 – 08.2018",
-        "description": "Accepted by National Resource for Network Biology. Worked on PathwayMapper Improvements and Integration into cBioPortal project. Mentored by S.Onur Sumer and JianJiong Gao. Developed a collaborative editing pathway editing tool using ShareDB."
-      },
-      {
-        "company": "Bikent University, Turkey",
-        "title": "Teaching Assistant",
-        "years": "09.2017 – 01.2018",
-        "description": "Helped student to understand and practise object-oriented programming with Java. Graded lab assignments and group projects for CS 102: Algorithms and Programming II."
-      },
-      {
-        "company": "IBM",
-        "title": "Software Engineering Intern",
+        "company": "Icron Technologies",
+        "title": "Research Engineering Intern",
         "years": "07.2017 – 08.2017",
-        "description": "Developed a file transfer application by using Bluemix, Pyhton and Apache Kafka. Created an application recognizing objects in a production line by using OpenCV and C++. Contributed a database systems project which was a service for Bosch Germany."
+        "description": "Learned about applications of optimization techniques such as mixed integer programming in industry and a fully functional visual programming language developed and being used at Icron Technologies."
       },
       {
-        "company": "Bikent University, Turkey",
-        "title": "Teaching Assistant",
-        "years": "01.2017 – 05.2017",
-        "description": "Helped student to understand and practise basic programming concepts. Graded lab assignment for 50 students for CS 114: Introduction to Programming."
+        "company": "Baykar Technologies",
+        "title": "Software Engineering Intern",
+        "years": "07.2016 – 09.2016",
+        "description": "Implemented a library using suffix arrays to handle search queries efficiently for a GUI application. Implemented a tool to convert simple C header and source files to C#. Implemented a line of sight algorithm to determine where a Unmanned Aerial Vehicle can go without losing line of contact with a receiver."
+      },
+      {
+        "company": "Baykar Technologies",
+        "title": "Software Engineering Intern",
+        "years": "06.2015 – 08.2015",
+        "description": "Worked on a GUI application that monitors and controls an Unmanned Aerial Vehicle's state to add new features and fix bugs. Found bottlenecks in code processing post-flight data to get a 50x of speedup."
       }
     ],
     "skills": [
       {
         "name": "Java",
-        "description": "I used Java for various projects including open source and course projects. I have completed most of the problems at interviewbit using Java.",
+        "description": "I used Java for various course projects.",
         "image": "java.jpg"
       },
       {
         "name": "Python",
-        "description": "I started using Python at my first year as a undergraduate. I liked the fact that it is very easy to use. I used it for several course projects and back-end applications.",
+        "description": "I started using Python at my first year as an undergraduate. I liked the fact that it is very easy to use. I used it for several research projects along with machine-deep learning frameworks.",
         "image": "python.png"
       },
       {
         "name": "C++",
-        "description": "As I started Ph.D., C++ became a important part of my work. I am trying to improve my skills by solving programming questions and implementing parallel programs.",
+        "description": "Starting from high school, I have used C++ as my go to language for competitive programming. As I started Ph.D., C++ became an indispensable tool for me to implement parallel algorithms and data structures.",
         "image": "cpp.png"
       },
       {
+        "name": "CUDA",
+        "description": "I have used CUDA and related libraries to accelerate Graph Convolutional Network training on multiple GPUs.",
+        "image": "cuda.jpg"
+      },
+      {
         "name": "Git",
-        "description": "Starting from 2017, I have used git in all of my projects including open-source, course and internship projects. I have gained most experince during my GSoC work.",
+        "description": "Starting from 2017, I have used git in all of my projects including open-source, course and internship projects.",
         "image": "git.jpg"
-      },
-      {
-        "name": "Javascript",
-        "description": "I have started working with Javascript as I joined Information Visualization Lab at 2017. Since then, I wrote thousands of lines of codes using JS. Some of my work includes Newt, PathwayMapper, Google Summer of Code 2018, cBioPortal and Wanderti.me.",
-        "image": "javascript.png"
-      },
-      {
-        "name": "React",
-        "description": "I started working with React at 2018. I have used the library for several projects including my senior year design project \"Wander Time\" which won the best demonstration award among over 30 projects.",
-        "image": "react.jpg"
-      },
-      {
-        "name": "CSS",
-        "description": "Being a visualization researcher in undergrad and completing GSoC 2018, I have gained a lot experience at css.",
-        "image": "css.png"
-      },
-      {
-        "name": "HTML5",
-        "description": "Being a visualization researcher in undergrad and completing GSoC 2018, I have gained a lot experience at html5.",
-        "image": "html5.png"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "MG-GCN",
+        "category": "MG-GCN: Scalable Multi-GPU GCN Training Framework can do full-batch training on billion scale graphs using a single multi-GPU computer such as the DGX-1 system.",
+        "image": "github.png",
+        "url": "https://github.com/GT-TDAlab/MG-GCN"
+      },
+      {
         "title": "SARMA",
         "category": "SARMA (SpatiAl Rectilinear Matrix pArtitioning) is a template-based, header only, library for spatial rectilinear partitioning. The main goal of this library to introduce novel symmetric rectilinear partitioning algorithms.",
         "image": "github.png",
         "url": "https://github.com/GT-TDAlab/SARMA"
-      },
-      {
-        "title": "PathwayMapper",
-        "category": "Worked as a developer. PathwayMapper is a web based pathway curation tool for interactive creation, editing, and sharing of cancer pathways. The tool supports remote users to collaborate and concurrently modify pathways using ShareDB with built-in conflict resolution implemented as a ReactJS component.",
-        "image": "github.png",
-        "url": "https://www.pathwaymapper.org/"
-      },
-      {
-        "title": "cBioPortal",
-        "category": "Worked as a developer. The cBioPortal for Cancer Genomics provides visualization, analysis, and download of large-scale cancer genomics data sets.",
-        "image": "cbioportal.png",
-        "url": "https://cbioportal.org"
-      },
-      {
-        "title": "BattleCity",
-        "category": "Course Project for Object Oriented Programming at Bilkent",
-        "image": "github.png",
-        "url": "https://github.com/kaansancak/1B.battlecity-cs319"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
-      {
-        "text": "I think Kaan is a very motivated and extremely sharp individual. He is one of those rare people with extremely strong background in both the theoretical and practical aspects of computer science and software engineering.",
-        "user": "Ugur Dogrusoz, Prof. at Bilkent University, Turkey"
-      }
     ]
   }
 }
