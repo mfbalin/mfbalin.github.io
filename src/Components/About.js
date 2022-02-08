@@ -28,6 +28,8 @@ class About extends Component {
                   <span>{name}</span>
                   <br />
                   <span>
+                    {street}
+                    <br />
                     {city}
                     <br />
                     {state}, {zip}
