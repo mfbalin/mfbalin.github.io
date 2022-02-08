@@ -118,7 +118,8 @@ onclick="location.href=this.href+email2;return false;">{email2}</a>
               <p className="address">
                 {name}
                 <br />
-                {street} <br />
+                {street}
+                <br />
                 {city}, {state} {zip}
                 <br />
                 <span>{phone}</span>
