@@ -76,38 +76,44 @@
           "venue": "Under review at Journal of Experimental Algorithmics (JEA)",
           "year": "2022",
           "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
-          "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek"
+          "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
+          "link": ""
         },
         {
           "venue": "Under review at High Performance Distributed Computing (HPDC)",
           "year": "2022",
           "title": "MG-GCN: Scalable Multi-GPU GCN Training Framework",
-          "authors": "M. F. Balin, K. Sancak, U. V. Catalyurek"
+          "authors": "M. F. Balin, K. Sancak, U. V. Catalyurek",
+          "link": "https://arxiv.org/pdf/2110.08688.pdf"
         },
         {
           "venue": "Journal of Experimental Algorithmics (JEA)",
           "year": "2021",
           "title": "On Symmetric Rectilinear Matrix Partitioning",
-          "authors": "A. Yasar, M. F. Balin, X. An, K. Sancak, U. V. Catalyurek"
+          "authors": "A. Yasar, M. F. Balin, X. An, K. Sancak, U. V. Catalyurek",
+          "link": "https://arxiv.org/pdf/2009.07735.pdf"
         },
         {
           "venue": "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Workshop on Graphs, Architectures, Programming and Learning",
           "year": "2020",
           "title": "A scalable graph generation algorithm to sample over a given shell distribution",
-          "authors": "M. Y. Ozkaya, M. F. Balin, A. Pinar, U. V. Catalyurek"
+          "authors": "M. Y. Ozkaya, M. F. Balin, A. Pinar, U. V. Catalyurek",
+          "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9150480"
         },
         {
           "venue": "International Conference on Machine Learning (ICML)",
           "year": "2019",
           "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
-          "authors": "M. F. Balin, A. Abid, J. Zou"
+          "authors": "M. F. Balin, A. Abid, J. Zou",
+          "link": "http://proceedings.mlr.press/v97/balin19a/balin19a.pdf"
         }
       ],
       "talks": [
         {
           "venue": "International Conference on Machine Learning (ICML), unsupervised learning session",
           "year": "2019",
-          "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction"
+          "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
+          "link": "https://slideslive.com/38917774/unsupervised-learning?locale=cs"
         }
       ],
       "work": [
