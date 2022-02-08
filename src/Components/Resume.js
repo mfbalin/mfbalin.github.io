@@ -17,6 +17,31 @@ class Resume extends Component {
         );
       });
 
+      var publications = this.props.data.publications.map(function(publications) {
+        return (
+          <div key={publications.venue}>
+            <h3>{publications.venue}</h3>
+            <p className="info">
+              {publications.title}
+              <span>&bull;</span> <em className="date">{publications.year}</em>
+            </p>
+            <p className="newline">{publications.authors}</p>
+          </div>
+        );
+      });
+
+      var talks = this.props.data.talks.map(function(talks) {
+        return (
+          <div key={talks.venue}>
+            <h3>{talks.venue}</h3>
+            <p className="info">
+              {talks.title}
+              <span>&bull;</span> <em className="date">{talks.year}</em>
+            </p>
+          </div>
+        );
+      });
+
       var work = this.props.data.work.map(function(work) {
         return (
           <div key={work.company}>
@@ -69,6 +94,34 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">{education}</div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row publications">
+          <div className="three columns header-col">
+            <h1>
+              <span>Publications</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <div className="row item">
+              <div className="twelve columns">{publications}</div>
+            </div>
+          </div>
+        </div>
+
+        <div className="row talks">
+          <div className="three columns header-col">
+            <h1>
+              <span>Talks</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <div className="row item">
+              <div className="twelve columns">{talks}</div>
             </div>
           </div>
         </div>
