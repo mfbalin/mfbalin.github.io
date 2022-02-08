@@ -77,7 +77,7 @@
           "year": "2022",
           "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
           "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
-          "link": ""
+          "link": "https://github.com/GT-TDAlab/SARMA"
         },
         {
           "venue": "Under review at High Performance Distributed Computing (HPDC)",
