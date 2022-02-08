@@ -19,10 +19,10 @@ class Resume extends Component {
 
       var publications = this.props.data.publications.map(function(publications) {
         return (
-          <div key={publications.venue}>
-            <h3>{publications.venue}</h3>
+          <div key={publications.title}>
+            <h3>{publications.title}</h3>
             <p className="info">
-              {publications.title}
+              {publications.venue}
               <span>&bull;</span> <em className="date">{publications.year}</em>
             </p>
             <p className="newline">{publications.authors}</p>
@@ -32,10 +32,10 @@ class Resume extends Component {
 
       var talks = this.props.data.talks.map(function(talks) {
         return (
-          <div key={talks.venue}>
-            <h3>{talks.venue}</h3>
+          <div key={talks.title}>
+            <h3>{talks.title}</h3>
             <p className="info">
-              {talks.title}
+              {talks.venue}
               <span>&bull;</span> <em className="date">{talks.year}</em>
             </p>
           </div>
