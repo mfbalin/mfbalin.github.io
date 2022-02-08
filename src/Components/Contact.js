@@ -120,7 +120,7 @@ onclick="location.href=this.href+email2;return false;">{email2}</a>
                 <br />
                 {street}
                 <br />
-                {city}, {state} {zip}
+                {city}, {state}, {zip}
                 <br />
                 <span>{phone}</span>
               </p>
