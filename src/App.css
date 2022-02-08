@@ -20,3 +20,7 @@
 .warning {
   color: red;
 }
+
+a.mylink:link {
+  color:inherit;
+}
