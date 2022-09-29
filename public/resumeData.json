@@ -75,6 +75,13 @@
         {
           "venue": "Under review",
           "year": "2022",
+          "title": "(La)yer-Neigh(bor) Sampling: Defusing Neighborhood Explosion",
+          "authors": "M. F. Balin, U. V. Catalyurek",
+          "link": "/labor.pdf"
+        },
+        {
+          "venue": "Under review",
+          "year": "2022",
           "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
           "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
           "link": "https://github.com/GT-TDAlab/SARMA"
