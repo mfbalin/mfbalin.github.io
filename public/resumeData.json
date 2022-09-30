@@ -77,7 +77,7 @@
           "year": "2022",
           "title": "(La)yer-Neigh(bor) Sampling: Defusing Neighborhood Explosion",
           "authors": "M. F. Balin, U. V. Catalyurek",
-          "link": ""
+          "link": "https://github.com/dmlc/dgl/pull/4668"
         },
         {
           "venue": "Under review",
