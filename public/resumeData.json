@@ -2,7 +2,7 @@
     "main": {
       "name": "Muhammed Fatih Balin",
       "occupation": "Ph.D. Student at Georgia Tech",
-      "description": "I am a PhD student advised by Umit V. Catalyurek in Computational Science and Engineering at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on a framework for multi-GPU Graph Convolutional Neural Network (GCN) training.",
+      "description": "I am a PhD student advised by Umit V. Catalyurek in Computer Science at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on new sampling methods to train Graph Neural Networks and methods that can further speed up GNN training.",
       "image": "profilepic.jpg",
       "contactmessage": "You can contact me via e-mail or give me a call",
       "phone": "+1-470-645-7922",
