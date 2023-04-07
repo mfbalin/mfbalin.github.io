@@ -51,6 +51,20 @@
     },
     "resume": {
       "skillmessage": "I love learning new technologies and solving problems with programming.",
+      "news": [
+        {
+          "time": "Summer 2023",
+          "description": "I will be returning to NVIDIA as a DevTech AI intern."
+        },
+        {
+          "time": "Spring 2023",
+          "description": "Labor Sampling is now part of the DGL framework!"
+        },
+        {
+          "time": "Summer 2022",
+          "description": "I will be joining NVIDIA as a DevTech AI intern."
+        }
+      ],
       "education": [
         {
           "school": "Georgia Institute of Technology, USA",
