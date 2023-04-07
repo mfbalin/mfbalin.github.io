@@ -183,7 +183,7 @@
         {
           "name": "SYCL",
           "description": "I have used SYCL for my personal projects, and keep myself updated with it an open source alternative to CUDA.",
-          "image": "sycl.jpg"
+          "image": "sycl.svg"
         },
         {
           "name": "Python",
