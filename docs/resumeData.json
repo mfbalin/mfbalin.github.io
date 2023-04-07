@@ -24,7 +24,7 @@
         },
         {
           "name": "twitter",
-          "url": "http://twitter.com/MFatihBalin",
+          "url": "http://twitter.com/mfbalin",
           "className": "fa fa-twitter"
         },
         {
@@ -185,6 +185,12 @@
     },
     "portfolio": {
       "projects": [
+        {
+          "title": "LABOR",
+          "category": "Layer-Neighbor Sampling is a drop-in replacement for Neighbor Sampling introduced in the GraphSAGE paper. It can be upto 7x more efficient.",
+          "image": "github.png",
+          "url": "https://docs.dgl.ai/generated/dgl.dataloading.LaborSampler.html"
+        },
         {
           "title": "MG-GCN",
           "category": "MG-GCN: Scalable Multi-GPU GCN Training Framework can do full-batch training on billion scale graphs using a single multi-GPU computer such as the DGX-1 system.",
