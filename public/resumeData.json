@@ -1,242 +1,258 @@
 {
-    "main": {
-      "name": "Muhammed Fatih Balin",
-      "occupation": "Ph.D. Student at Georgia Tech",
-      "description": "I am a PhD student advised by Umit V. Catalyurek in Computer Science at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on new sampling methods to train Graph Neural Networks and methods that can further speed up GNN training.",
-      "image": "profilepic.jpg",
-      "contactmessage": "You can contact me via e-mail or give me a call",
-      "phone": "+1-470-645-7922",
-      "email": "balin@gatech.edu",
-      "email2": "m.f.balin@gmail.com",
-      "address": {
-        "street": "756 W Peachtree St NW",
-        "city": "Atlanta",
-        "state": "Georgia",
-        "zip": "30308"
+  "main": {
+    "name": "Muhammed Fatih Balin",
+    "occupation": "Ph.D. Student at Georgia Tech",
+    "description": "I am a PhD student advised by Umit V. Catalyurek in Computer Science at Georgia Tech. My research interests include high-performance computing, large-scale graph neural network training and application of deep learning to discrete optimization problems. Recently, I have been working on new sampling methods to train Graph Neural Networks and methods that can further speed up GNN training.",
+    "image": "profilepic.jpg",
+    "contactmessage": "You can contact me via e-mail or give me a call",
+    "phone": "+1-470-645-7922",
+    "email": "balin@gatech.edu",
+    "email2": "m.f.balin@gmail.com",
+    "address": {
+      "street": "756 W Peachtree St NW",
+      "city": "Atlanta",
+      "state": "Georgia",
+      "zip": "30308"
+    },
+    "website": "mfbal.in",
+    "resumedownload": "/mfbalin_cv.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/M.Fatih.Balin/",
+        "className": "fa fa-facebook"
       },
-      "website": "mfbal.in",
-      "resumedownload": "/mfbalin_cv.pdf",
-      "social": [
-        {
-          "name": "facebook",
-          "url": "https://www.facebook.com/M.Fatih.Balin/",
-          "className": "fa fa-facebook"
-        },
-        {
-          "name": "twitter",
-          "url": "http://twitter.com/mfbalin",
-          "className": "fa fa-twitter"
-        },
-        {
-          "name": "linkedin",
-          "url": "https://www.linkedin.com/in/mfbalin",
-          "className": "fa fa-linkedin"
-        },
-        {
-          "name": "instagram",
-          "url": "http://instagram.com/mfbalin",
-          "className": "fa fa-instagram"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/mfbalin",
-          "className": "fa fa-github"
-        },
-        {
-          "name": "skype",
-          "url": "live:catlak_profesor_mfb",
-          "className": "fa fa-skype"
-        }
-      ]
-    },
-    "resume": {
-      "skillmessage": "I love learning new technologies and solving problems with programming.",
-      "news": [
-        {
-          "time": "Summer 2023",
-          "description": "I will be returning to NVIDIA as a DevTech AI intern."
-        },
-        {
-          "time": "Spring 2023",
-          "description": "Labor Sampling is now part of the DGL framework!"
-        },
-        {
-          "time": "Summer 2022",
-          "description": "I will be joining NVIDIA as a DevTech AI intern."
-        }
-      ],
-      "education": [
-        {
-          "school": "Georgia Institute of Technology, USA",
-          "degree": "Ph.D. in Computational Science and Engineering",
-          "graduated": "2019 - Present",
-          "description": "Focusing on High Performance Computing and Machine Learning advised by Umit V. Catalyurek"
-        },
-        {
-          "school": "Boğaziçi University, Turkey",
-          "degree": "B.Sc. in Computer Engineering and Mathematics (Double Major)",
-          "graduated": "2015 - 2019",
-          "description": "Rank of 1 in department, 3 in faculty among 400 engineering students."
-        },
-        {
-          "school": "Columbia University in the City of New York, USA",
-          "degree": "Non-degree Exchange Student in Computer Science",
-          "graduated": "2018 - Spring",
-          "description": "4.07 GPA in graduate level machine learning and computer science classes"
-        }
-      ],
-      "publications": [
-        {
-          "venue": "Under review",
-          "year": "2022",
-          "title": "(La)yer-Neigh(bor) Sampling: Defusing Neighborhood Explosion",
-          "authors": "M. F. Balin, U. V. Catalyurek",
-          "link": "https://arxiv.org/abs/2210.13339"
-        },
-        {
-          "venue": "Under review",
-          "year": "2022",
-          "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
-          "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
-          "link": "https://github.com/GT-TDAlab/SARMA"
-        },
-        {
-          "venue": "Under review",
-          "year": "2022",
-          "title": "MG-GCN: Scalable Multi-GPU GCN Training Framework",
-          "authors": "M. F. Balin, K. Sancak, U. V. Catalyurek",
-          "link": "https://arxiv.org/pdf/2110.08688.pdf"
-        },
-        {
-          "venue": "Journal of Experimental Algorithmics (JEA)",
-          "year": "2021",
-          "title": "On Symmetric Rectilinear Matrix Partitioning",
-          "authors": "A. Yasar, M. F. Balin, X. An, K. Sancak, U. V. Catalyurek",
-          "link": "https://arxiv.org/pdf/2009.07735.pdf"
-        },
-        {
-          "venue": "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Workshop on Graphs, Architectures, Programming and Learning",
-          "year": "2020",
-          "title": "A scalable graph generation algorithm to sample over a given shell distribution",
-          "authors": "M. Y. Ozkaya, M. F. Balin, A. Pinar, U. V. Catalyurek",
-          "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9150480"
-        },
-        {
-          "venue": "International Conference on Machine Learning (ICML)",
-          "year": "2019",
-          "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
-          "authors": "M. F. Balin, A. Abid, J. Zou",
-          "link": "http://proceedings.mlr.press/v97/balin19a/balin19a.pdf"
-        }
-      ],
-      "talks": [
-        {
-          "venue": "International Conference on Machine Learning (ICML), unsupervised learning session",
-          "year": "2019",
-          "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
-          "link": "https://slideslive.com/38917774/unsupervised-learning?locale=cs"
-        }
-      ],
-      "work": [
-        {
-          "company": "Georgia Institute of Technology",
-          "title": "Graduate Research Assistant",
-          "years": "2019 - Present",
-          "description": "Currently interested in fast & parallel training methods for Graph Neural Networks and its variants, one paper submitted to MLSYS 2022. Proposed subgradient optimization for rectilinear partitioning of sparse matrices and point datasets. Devised and implemented a shared memory code and a hybrid version with MPI using C++11 threads, lock-free data structures and fine-grained parallelism to generate random graphs given a k-core structure, accepted at IPDPSW 2020. Implemented a 2D sparse prefix sum data structure using persistent Binary Indexed Trees to speed up the prefix sum queries in matrixpartitioning algorithms, proposed sparsification idea to make queries much faster and proposed more efficient heuristics for the symmetric rectilinear partitioning problem, accepted at JEA 2021."
-        },
-        {
-          "company": "NVIDIA",
-          "title": "Developer Technology AI Intern",
-          "years": "05.2022 – 08.2022",
-          "description": "Implemented GPU implementations of LABOR, a Graph Neural Network sampler, and cooperative minibatching methods."
-        },
-        {
-          "company": "Pacific Northwest National Laboratory",
-          "title": "Research Intern",
-          "years": "05.2021 – 08.2021",
-          "description": "Developed distributed data structures and algorithms on the open source distributed programming framework SHAD."
-        },
-        {
-          "company": "Icron Technologies",
-          "title": "Research Engineering Intern",
-          "years": "07.2017 – 08.2017",
-          "description": "Learned about applications of optimization techniques such as mixed integer programming in industry and a fully functional visual programming language developed and being used at Icron Technologies."
-        },
-        {
-          "company": "Baykar Technologies",
-          "title": "Software Engineering Intern",
-          "years": "07.2016 – 09.2016",
-          "description": "Implemented a library using suffix arrays to handle search queries efficiently for a GUI application. Implemented a tool to convert simple C header and source files to C#. Implemented a line of sight algorithm to determine where a Unmanned Aerial Vehicle can go without losing line of contact with a receiver."
-        },
-        {
-          "company": "Baykar Technologies",
-          "title": "Software Engineering Intern",
-          "years": "06.2015 – 08.2015",
-          "description": "Worked on a GUI application that monitors and controls an Unmanned Aerial Vehicle's state to add new features and fix bugs. Found bottlenecks in code processing post-flight data to get a 50x of speedup."
-        }
-      ],
-      "skills": [
-        {
-          "name": "C++",
-          "description": "Starting from high school, I have used C++ as my go to language for competitive programming. As I started Ph.D., C++ became an indispensable tool for me to implement parallel algorithms and data structures.",
-          "image": "cpp.png"
-        },
-        {
-          "name": "CUDA",
-          "description": "I have used CUDA and related libraries to accelerate Graph Convolutional Network training on multiple GPUs.",
-          "image": "cuda.jpg"
-        },
-        {
-          "name": "SYCL",
-          "description": "I have used SYCL for my personal projects, and keep myself updated with it an open source alternative to CUDA.",
-          "image": "sycl.svg"
-        },
-        {
-          "name": "Python",
-          "description": "I started using Python at my first year as an undergraduate. I liked the fact that it is very easy to use. I used it for several research projects along with machine-deep learning frameworks.",
-          "image": "python.png"
-        },
-        {
-          "name": "Java",
-          "description": "I used Java for various course projects.",
-          "image": "java.jpg"
-        },
-        {
-          "name": "Git",
-          "description": "Starting from 2017, I have used git in all of my projects including open-source, course and internship projects.",
-          "image": "git.jpg"
-        }
-      ]
-    },
-    "portfolio": {
-      "projects": [
-        {
-          "title": "LABOR",
-          "category": "Layer-Neighbor Sampling is a drop-in replacement for Neighbor Sampling introduced in the GraphSAGE paper. It can be upto 7x more efficient.",
-          "image": "github.png",
-          "url": "https://docs.dgl.ai/generated/dgl.dataloading.LaborSampler.html"
-        },
-        {
-          "title": "MG-GCN",
-          "category": "MG-GCN: Scalable Multi-GPU GCN Training Framework can do full-batch training on billion scale graphs using a single multi-GPU computer such as the DGX-1 system.",
-          "image": "github.png",
-          "url": "https://github.com/GT-TDAlab/MG-GCN"
-        },
-        {
-          "title": "SARMA",
-          "category": "SARMA (SpatiAl Rectilinear Matrix pArtitioning) is a template-based, header only, library for spatial rectilinear partitioning. The main goal of this library to introduce novel symmetric rectilinear partitioning algorithms.",
-          "image": "github.png",
-          "url": "https://github.com/GT-TDAlab/SARMA"
-        }
-      ]
-    },
-    "testimonials": {
-      "testimonials": [
-        {
-          "text": "",
-          "user": ""
-        }
-      ]
-    }
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/mfbalin",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/mfbalin",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/mfbalin",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mfbalin",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "live:catlak_profesor_mfb",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I love learning new technologies and solving problems with programming.",
+    "news": [
+      {
+        "time": "Fall 2023",
+        "description": "My work on Graph Neural Network Sampling, called Labor, is accepted by NeurIPS!"
+      },
+      {
+        "time": "Summer 2023",
+        "description": "I will be returning to NVIDIA as a DevTech AI intern."
+      },
+      {
+        "time": "Spring 2023",
+        "description": "Labor Sampling is now part of the DGL framework!"
+      },
+      {
+        "time": "Summer 2022",
+        "description": "I will be joining NVIDIA as a DevTech AI intern."
+      }
+    ],
+    "education": [
+      {
+        "school": "Georgia Institute of Technology, USA",
+        "degree": "Ph.D. in Computational Science and Engineering",
+        "graduated": "2019 - Present",
+        "description": "Focusing on High Performance Computing and Machine Learning advised by Umit V. Catalyurek"
+      },
+      {
+        "school": "Boğaziçi University, Turkey",
+        "degree": "B.Sc. in Computer Engineering and Mathematics (Double Major)",
+        "graduated": "2015 - 2019",
+        "description": "Rank of 1 in department, 3 in faculty among 400 engineering students."
+      },
+      {
+        "school": "Columbia University in the City of New York, USA",
+        "degree": "Non-degree Exchange Student in Computer Science",
+        "graduated": "2018 - Spring",
+        "description": "4.07 GPA in graduate level machine learning and computer science classes"
+      }
+    ],
+    "publications": [
+      {
+        "venue": "Under review",
+        "year": "2023",
+        "title": "Cooperative Minibatching in Graph Neural Networks",
+        "authors": "M. F. Balin, Dominique LaSalle, U. V. Catalyurek",
+        "link": "https://github.com/dmlc/dgl/pull/4337"
+      },
+      {
+        "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
+        "year": "2023",
+        "title": "Layer-Neighbor Sampling -- Defusing Neighborhood Explosion in GNNs",
+        "authors": "M. F. Balin, U. V. Catalyurek",
+        "link": "https://arxiv.org/abs/2210.13339"
+      },
+      {
+        "venue": "Under review",
+        "year": "2022",
+        "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
+        "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
+        "link": "https://github.com/GT-TDAlab/SARMA"
+      },
+      {
+        "venue": "International Conference on Parallel Processing (ICPP)",
+        "year": "2022",
+        "title": "MG-GCN: Scalable Multi-GPU GCN Training Framework",
+        "authors": "M. F. Balin, K. Sancak, U. V. Catalyurek",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3545008.3545082"
+      },
+      {
+        "venue": "Journal of Experimental Algorithmics (JEA)",
+        "year": "2021",
+        "title": "On Symmetric Rectilinear Matrix Partitioning",
+        "authors": "A. Yasar, M. F. Balin, X. An, K. Sancak, U. V. Catalyurek",
+        "link": "https://arxiv.org/pdf/2009.07735.pdf"
+      },
+      {
+        "venue": "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Workshop on Graphs, Architectures, Programming and Learning",
+        "year": "2020",
+        "title": "A scalable graph generation algorithm to sample over a given shell distribution",
+        "authors": "M. Y. Ozkaya, M. F. Balin, A. Pinar, U. V. Catalyurek",
+        "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9150480"
+      },
+      {
+        "venue": "International Conference on Machine Learning (ICML)",
+        "year": "2019",
+        "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
+        "authors": "M. F. Balin, A. Abid, J. Zou",
+        "link": "http://proceedings.mlr.press/v97/balin19a/balin19a.pdf"
+      }
+    ],
+    "talks": [
+      {
+        "venue": "International Conference on Machine Learning (ICML), unsupervised learning session",
+        "year": "2019",
+        "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
+        "link": "https://slideslive.com/38917774/unsupervised-learning?locale=cs"
+      }
+    ],
+    "work": [
+      {
+        "company": "Georgia Institute of Technology",
+        "title": "Graduate Research Assistant",
+        "years": "2019 - Present",
+        "description": "Currently interested in fast & parallel training methods for Graph Neural Networks and its variants, one paper submitted to MLSYS 2022. Proposed subgradient optimization for rectilinear partitioning of sparse matrices and point datasets. Devised and implemented a shared memory code and a hybrid version with MPI using C++11 threads, lock-free data structures and fine-grained parallelism to generate random graphs given a k-core structure, accepted at IPDPSW 2020. Implemented a 2D sparse prefix sum data structure using persistent Binary Indexed Trees to speed up the prefix sum queries in matrixpartitioning algorithms, proposed sparsification idea to make queries much faster and proposed more efficient heuristics for the symmetric rectilinear partitioning problem, accepted at JEA 2021."
+      },
+      {
+        "company": "NVIDIA",
+        "title": "Developer Technology AI Intern",
+        "years": "05.2023 – 08.2023",
+        "description": "Implemented fused fine-grained FP8 quantization kernels in TensorRT-LLM for Hopper GPUs. It is almost as fast as static quantization while requiring no calibration, enabling quantizing any LLM model on the fly."
+      },
+      {
+        "company": "NVIDIA",
+        "title": "Developer Technology AI Intern",
+        "years": "05.2022 – 08.2022",
+        "description": "Implemented GPU implementations of LABOR, a Graph Neural Network sampler, and cooperative minibatching methods."
+      },
+      {
+        "company": "Pacific Northwest National Laboratory",
+        "title": "Research Intern",
+        "years": "05.2021 – 08.2021",
+        "description": "Developed distributed data structures and algorithms on the open source distributed programming framework SHAD."
+      },
+      {
+        "company": "Icron Technologies",
+        "title": "Research Engineering Intern",
+        "years": "07.2017 – 08.2017",
+        "description": "Learned about applications of optimization techniques such as mixed integer programming in industry and a fully functional visual programming language developed and being used at Icron Technologies."
+      },
+      {
+        "company": "Baykar Technologies",
+        "title": "Software Engineering Intern",
+        "years": "07.2016 – 09.2016",
+        "description": "Implemented a library using suffix arrays to handle search queries efficiently for a GUI application. Implemented a tool to convert simple C header and source files to C#. Implemented a line of sight algorithm to determine where a Unmanned Aerial Vehicle can go without losing line of contact with a receiver."
+      },
+      {
+        "company": "Baykar Technologies",
+        "title": "Software Engineering Intern",
+        "years": "06.2015 – 08.2015",
+        "description": "Worked on a GUI application that monitors and controls an Unmanned Aerial Vehicle's state to add new features and fix bugs. Found bottlenecks in code processing post-flight data to get a 50x of speedup."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "description": "Starting from high school, I have used C++ as my go to language for competitive programming. As I started Ph.D., C++ became an indispensable tool for me to implement parallel algorithms and data structures.",
+        "image": "cpp.png"
+      },
+      {
+        "name": "CUDA",
+        "description": "I have used CUDA and related libraries to accelerate Graph Convolutional Network training on multiple GPUs.",
+        "image": "cuda.jpg"
+      },
+      {
+        "name": "SYCL",
+        "description": "I have used SYCL for my personal projects, and keep myself updated with it an open source alternative to CUDA.",
+        "image": "sycl.svg"
+      },
+      {
+        "name": "Python",
+        "description": "I started using Python at my first year as an undergraduate. I liked the fact that it is very easy to use. I used it for several research projects along with machine-deep learning frameworks.",
+        "image": "python.png"
+      },
+      {
+        "name": "Java",
+        "description": "I used Java for various course projects.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "Git",
+        "description": "Starting from 2017, I have used git in all of my projects including open-source, course and internship projects.",
+        "image": "git.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "LABOR",
+        "category": "Layer-Neighbor Sampling is a drop-in replacement for Neighbor Sampling introduced in the GraphSAGE paper. It can be upto 7x more efficient.",
+        "image": "github.png",
+        "url": "https://docs.dgl.ai/generated/dgl.dataloading.LaborSampler.html"
+      },
+      {
+        "title": "MG-GCN",
+        "category": "MG-GCN: Scalable Multi-GPU GCN Training Framework can do full-batch training on billion scale graphs using a single multi-GPU computer such as the DGX-1 system.",
+        "image": "github.png",
+        "url": "https://github.com/GT-TDAlab/MG-GCN"
+      },
+      {
+        "title": "SARMA",
+        "category": "SARMA (SpatiAl Rectilinear Matrix pArtitioning) is a template-based, header only, library for spatial rectilinear partitioning. The main goal of this library to introduce novel symmetric rectilinear partitioning algorithms.",
+        "image": "github.png",
+        "url": "https://github.com/GT-TDAlab/SARMA"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
   }
-  
+}
