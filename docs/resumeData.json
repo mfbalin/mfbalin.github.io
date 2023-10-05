@@ -105,11 +105,11 @@
         "link": "https://arxiv.org/abs/2210.13339"
       },
       {
-        "venue": "Under review",
-        "year": "2022",
+        "venue": "Technical report",
+        "year": "2023",
         "title": "SGORP: A Subgradient-based Method for d-Dimensional Rectilinear Partitioning",
         "authors": "M. F. Balin, X. An, A. Yasar, U. V. Catalyurek",
-        "link": "https://github.com/GT-TDAlab/SARMA"
+        "link": "https://arxiv.org/abs/2310.02470"
       },
       {
         "venue": "International Conference on Parallel Processing (ICPP)",
