@@ -94,8 +94,15 @@
         "venue": "Under review",
         "year": "2023",
         "title": "SIRD: Symbolic Integration Rules Dataset",
-        "authors": "Vaibhav Sharma, Abhinav Nagpal, M. F. Balin",
+        "authors": "V. Sharma, A. Nagpal, M. F. Balin",
         "link": "https://tinyurl.com/sirddataset"
+      },
+      {
+        "venue": "Under review",
+        "year": "2023",
+        "title": "A Fast and Effective Alternative to Graph Transformers",
+        "authors": "K. Sancak, Z. Hua, J. Fang, Y. Xie, B. Long, A. Malevich, M. F. Balin, U. V. Catalyurek",
+        "link": "https://mfbal.in"
       },
       {
         "venue": "Under review",
