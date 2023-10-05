@@ -100,7 +100,7 @@
       {
         "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
         "year": "2023",
-        "title": "Layer-Neighbor Sampling -- Defusing Neighborhood Explosion in GNNs",
+        "title": "Layer-Neighbor Sampling --- Defusing Neighborhood Explosion in GNNs",
         "authors": "M. F. Balin, U. V. Catalyurek",
         "link": "https://arxiv.org/abs/2210.13339"
       },
