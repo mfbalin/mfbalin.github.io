@@ -93,6 +93,13 @@
       {
         "venue": "Under review",
         "year": "2023",
+        "title": "SIRD: Symbolic Integration Rules Dataset",
+        "authors": "Vaibhav Sharma, Abhinav Nagpal, M. F. Balin",
+        "link": "https://tinyurl.com/sirddataset"
+      },
+      {
+        "venue": "Under review",
+        "year": "2023",
         "title": "Cooperative Minibatching in Graph Neural Networks",
         "authors": "M. F. Balin, Dominique LaSalle, U. V. Catalyurek",
         "link": "https://github.com/dmlc/dgl/pull/4337"
