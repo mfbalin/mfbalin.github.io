@@ -54,7 +54,11 @@
     "news": [
       {
         "time": "Fall 2023",
-        "description": "My work on Graph Neural Network Sampling, called Labor, is accepted by NeurIPS!"
+        "description": "Out work on curating a mathematical symbolic integration dataset, called SIRD, is accepted by the NeurIPS MATH-AI Workshop!"
+      },
+      {
+        "time": "Fall 2023",
+        "description": "Our work on Graph Neural Network Sampling, called Labor, is accepted by NeurIPS!"
       },
       {
         "time": "Summer 2023",
