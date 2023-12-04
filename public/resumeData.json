@@ -93,13 +93,6 @@
       {
         "venue": "Under review",
         "year": "2023",
-        "title": "SIRD: Symbolic Integration Rules Dataset",
-        "authors": "V. Sharma, A. Nagpal, M. F. Balin",
-        "link": "https://tinyurl.com/sirddataset"
-      },
-      {
-        "venue": "Under review",
-        "year": "2023",
         "title": "A Fast and Effective Alternative to Graph Transformers",
         "authors": "K. Sancak, Z. Hua, J. Fang, Y. Xie, B. Long, A. Malevich, M. F. Balin, U. V. Catalyurek",
         "link": "https://mfbal.in"
@@ -110,6 +103,13 @@
         "title": "Cooperative Minibatching in Graph Neural Networks",
         "authors": "M. F. Balin, Dominique LaSalle, U. V. Catalyurek",
         "link": "https://arxiv.org/abs/2310.12403"
+      },
+      {
+        "venue": "3rd MATH-AI Workshop at NeurIPS",
+        "year": "2023",
+        "title": "SIRD: Symbolic Integration Rules Dataset",
+        "authors": "V. Sharma, A. Nagpal, M. F. Balin",
+        "link": "https://mathai2023.github.io/papers/39.pdf"
       },
       {
         "venue": "Advances in Neural Information Processing Systems (NeurIPS)",
