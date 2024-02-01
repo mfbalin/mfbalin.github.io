@@ -53,6 +53,10 @@
     "skillmessage": "I love learning new technologies and solving problems with programming.",
     "news": [
       {
+        "time": "Winter 2024",
+        "description": "I have been officially designated a committor due to on-going contributions to the <a href=\"https://www.dgl.ai/pages/about.html\">Deep Graph Library</a>."
+      },
+      {
         "time": "Fall 2023",
         "description": "Our work on curating a mathematical symbolic integration dataset, called SIRD, is accepted by the NeurIPS MATH-AI Workshop!"
       },
@@ -251,6 +255,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "GraphBolt",
+        "category": "GraphBolt is a Graph Neural Network dataloading library with full support for multi-GPU systems.",
+        "image": "github.png",
+        "url": "https://docs.dgl.ai/en/latest/api/python/dgl.graphbolt.html"
+      },
       {
         "title": "LABOR",
         "category": "Layer-Neighbor Sampling is a drop-in replacement for Neighbor Sampling introduced in the GraphSAGE paper. It can be upto 7x more efficient.",
