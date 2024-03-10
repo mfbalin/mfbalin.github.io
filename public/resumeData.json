@@ -164,6 +164,12 @@
     ],
     "talks": [
       {
+        "venue": "Georgia Institute of Technology, CSE 6230: HPC Tools and Applications",
+        "year": "2024",
+        "title": "Accelerating GNN Dataloading on Multi-GPU Systems: dgl.graphbolt",
+        "link": "https://www.youtube.com/watch?v=lbtib3nbzZM&list=FLZzOa6NUXuKU511Ryr-2QUw&index=1&t=708s"
+      },
+      {
         "venue": "International Conference on Machine Learning (ICML), unsupervised learning session",
         "year": "2019",
         "title": "Concrete Autoencoders for Differentiable Feature Selection and Reconstruction",
