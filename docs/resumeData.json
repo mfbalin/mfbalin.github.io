@@ -164,6 +164,12 @@
     ],
     "talks": [
       {
+        "venue": "NVIDIA - Deep Learning Frameworks",
+        "year": "2024",
+        "title": "Accelerating GNN Dataloading on Multi-GPU Systems: dgl.graphbolt",
+        "link": ""
+      },
+      {
         "venue": "Georgia Institute of Technology, CSE 6230: HPC Tools and Applications",
         "year": "2024",
         "title": "Accelerating GNN Dataloading on Multi-GPU Systems: dgl.graphbolt",
