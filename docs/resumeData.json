@@ -134,6 +134,13 @@
         "link": "https://arxiv.org/abs/2310.02470"
       },
       {
+        "venue": "Submitted and rejected to ICML in January 2023",
+        "year": "2023",
+        "title": "Cooperative Minibatching in GNNs",
+        "authors": "M. F. Balin, Dominique LaSalle, U. V. Catalyurek",
+        "link": "https://github.com/mfbalin/mfbalin.github.io/tree/main/public/papers/6621_Cooperative_Minibatching_.pdf"
+      },
+      {
         "venue": "International Conference on Parallel Processing (ICPP)",
         "year": "2022",
         "title": "MG-GCN: Scalable Multi-GPU GCN Training Framework",
