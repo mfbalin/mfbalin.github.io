@@ -99,18 +99,25 @@
     ],
     "publications": [
       {
-        "venue": "Under review",
-        "year": "2023",
-        "title": "A Fast and Effective Alternative to Graph Transformers",
-        "authors": "K. Sancak, Z. Hua, J. Fang, Y. Xie, B. Long, A. Malevich, M. F. Balin, U. V. Catalyurek",
-        "link": "https://openreview.net/pdf?id=duLr8BIzro"
+        "venue": "AAAI Conference on Artificial Intelligence",
+        "year": "2025",
+        "title": "A Scalable and Effective Alternative to Graph Transformers",
+        "authors": "K. Sancak, Z. Hua, J. Fang, Y. Xie, A. Malevich, B. Long, M. F. Balin, U. V. Catalyurek",
+        "link": "https://openreview.net/pdf?id=JV3q9JQn6s"
       },
       {
-        "venue": "Under review",
-        "year": "2023",
+        "venue": "Transactions on Machine Learning Research (TMLR)",
+        "year": "2025",
         "title": "Cooperative Minibatching in Graph Neural Networks",
         "authors": "M. F. Balin, Dominique LaSalle, U. V. Catalyurek",
-        "link": "https://arxiv.org/abs/2310.12403"
+        "link": "https://openreview.net/pdf?id=f6yMdmrD2g"
+      },
+      {
+        "venue": "Learning on Graphs Conference (LoG)",
+        "year": "2024",
+        "title": "Do We Really Need Complicated Graph Learning Models? -- A Simple but Effective Baseline",
+        "authors": "K. Sancak, M. F. Balin, U. V. Catalyurek",
+        "link": "https://openreview.net/pdf?id=0664MgKEVz"
       },
       {
         "venue": "3rd MATH-AI Workshop at NeurIPS",
