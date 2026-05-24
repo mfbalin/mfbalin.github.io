@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mfbalin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mfbal.in
+  * I am mfbalin (https://keybase.io/mfbalin) on keybase.
+  * I have a public key ASAY4jKdwaXR8cTUxL-NWoRCUmoH9Ble0IM2jKd6zxWKVgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a678e6da0e085fa7ea62967c391073f0c0b75df6fc697f21c7850072b7337abb0a",
+      "host": "keybase.io",
+      "kid": "012018e2329dc1a5d1f1c4d4c4bf8d5a8442526a07f4195ed083368ca77acf158a560a",
+      "uid": "cf19b367aadd55a9bea3d7057caa3219",
+      "username": "mfbalin"
+    },
+    "merkle_root": {
+      "ctime": 1779662713,
+      "hash": "3a0d0ea02333715d085135e563b07f51004946b4048c7a73825c579b0a67f2558234732fd38c0406c9a602467dc2c6020e562eb09096b7df61f8d45cbc37fca7",
+      "hash_meta": "3f3883331aed8494abf37da3297ce00be1f05bc56215409eb8602973e905f0a0",
+      "seqno": 27596606
+    },
+    "service": {
+      "entropy": "xQabbok7jy0CuOs2RLrLzkHb",
+      "hostname": "mfbal.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.2"
+  },
+  "ctime": 1779662718,
+  "expire_in": 504576000,
+  "prev": "6abca8bac0722fb01098e7a6515303f15d7f0065fde4ccc3cb3d5e05d279f44f",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGOIyncGl0fHE1MS/jVqEQlJqB/QZXtCDNoynes8VilYKp3BheWxvYWTESpcCNsQgaryousByL7AQmOemUVMD8V1/AGX95MzDyz1eBdJ59E/EIBxvX+eZMBzIjDk3920QtgXxDlI8wquS+s8AoBmgie+nAgHCo3NpZ8RAQoCfpUgBDQLpXynTBBknyKKk2A8BjZhY6VG72poaOrgu1ZoXGI6nww767ePBri66x1hRKEzkK+xJ4XfLqSRUDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN3hx3zY+ksO9MDlV0XyDAp2q95fMMC/e+RHJ92nSeAWo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mfbalin
+
+==================================================================
