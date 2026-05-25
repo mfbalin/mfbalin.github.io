@@ -1,6 +1,5 @@
-import React, { Component } from "react";
-import ReactGA from "react-ga";
-import $ from "jquery";
+import React, { useState, useEffect } from "react";
+import ReactGA from "react-ga4";
 import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
@@ -11,52 +10,41 @@ import Contact from "./Components/Contact";
 import Portfolio from "./Components/Portfolio";
 // import News from "./Components/News";
 
+function App() {
+  const [resumeData, setResumeData] = useState({});
 
-class App extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      foo: "bar",
-      resumeData: {}
-    };
+  useEffect(() => {
+    ReactGA.initialize("G-ZP293L5ZQM");
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
 
-    ReactGA.initialize("UA-110570651-1");
-    ReactGA.pageview(window.location.pathname);
-  }
+    // Fetch resume data
+    fetch("/resumeData.json")
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error("Failed to fetch resume data");
+        }
+        return response.json();
+      })
+      .then((data) => {
+        setResumeData(data);
+      })
+      .catch((error) => {
+        console.error("Error loading resume data:", error);
+      });
+  }, []);
 
-  getResumeData() {
-    $.ajax({
-      url: "/resumeData.json",
-      dataType: "json",
-      cache: false,
-      success: function(data) {
-        this.setState({ resumeData: data });
-      }.bind(this),
-      error: function(xhr, status, err) {
-        console.log(err);
-        alert(err);
-      }
-    });
-  }
-
-  componentDidMount() {
-    this.getResumeData();
-  }
-
-  render() {
-    return (
-      <div className="App">
-        <Header data={this.state.resumeData.main} />
-        <About data={this.state.resumeData.main} />
-        {/* <News data={this.state.resumeData.news} /> */}
-        <Resume data={this.state.resumeData.resume} />
-        <Portfolio data={this.state.resumeData.portfolio} />
-        {/* <Testimonials data={this.state.resumeData.testimonials} /> */}
-        <Contact data={this.state.resumeData.main} />
-        <Footer data={this.state.resumeData.main} />
-      </div>
-    );
-  }
+  return (
+    <div className="App">
+      <Header data={resumeData.main} />
+      <About data={resumeData.main} />
+      {/* <News data={resumeData.news} /> */}
+      <Resume data={resumeData.resume} />
+      <Portfolio data={resumeData.portfolio} />
+      {/* <Testimonials data={resumeData.testimonials} /> */}
+      <Contact data={resumeData.main} />
+      <Footer data={resumeData.main} />
+    </div>
+  );
 }
 
 export default App;
