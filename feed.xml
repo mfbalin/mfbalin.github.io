@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Muhammed Fatih Balin — News</title>
+  <subtitle>Updates from mfbal.in</subtitle>
+  <link href="https://mfbal.in/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://mfbal.in/" rel="alternate" type="text/html"/>
+  <id>https://mfbal.in/</id>
+  <updated>2026-05-24T00:00:00Z</updated>
+  <author>
+    <name>Muhammed Fatih Balin</name>
+    <email>mfbalin@gmail.com</email>
+    <uri>https://mfbal.in/</uri>
+  </author>
+
+  <entry>
+    <title>Defended and received my Ph.D. in Computer Science at Georgia Tech</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2026-05:phd-defense</id>
+    <updated>2026-05-15T00:00:00Z</updated>
+    <published>2026-05-15T00:00:00Z</published>
+    <summary>Defended and received my Ph.D. in Computer Science at Georgia Tech.</summary>
+  </entry>
+
+  <entry>
+    <title>Promoted to Senior Applied Scientist at AWS Annapurna Labs</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2026-04:senior-promotion</id>
+    <updated>2026-04-01T00:00:00Z</updated>
+    <published>2026-04-01T00:00:00Z</published>
+    <summary>Promoted to Senior Applied Scientist at AWS Annapurna Labs.</summary>
+  </entry>
+
+  <entry>
+    <title>Joined AWS Annapurna Labs as an Applied Scientist II</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2024-10:joined-aws</id>
+    <updated>2024-10-01T00:00:00Z</updated>
+    <published>2024-10-01T00:00:00Z</published>
+    <summary>Joined AWS Annapurna Labs as an Applied Scientist II.</summary>
+  </entry>
+
+  <entry>
+    <title>Designated DGL Committor</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2024-01:dgl-committor</id>
+    <updated>2024-01-01T00:00:00Z</updated>
+    <published>2024-01-01T00:00:00Z</published>
+    <summary>Officially designated a "Committor" on the Deep Graph Library for ongoing contributions. Building the multi-GPU GraphBolt dataloading library with the AWS Shanghai AI lab.</summary>
+  </entry>
+
+  <entry>
+    <title>SIRD accepted at NeurIPS MATH-AI Workshop</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2023-09:sird-mathai</id>
+    <updated>2023-09-30T00:00:00Z</updated>
+    <published>2023-09-30T00:00:00Z</published>
+    <summary>SIRD (mathematical symbolic integration dataset) accepted at the NeurIPS MATH-AI Workshop.</summary>
+  </entry>
+
+  <entry>
+    <title>LABOR accepted at NeurIPS</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2023-09:labor-neurips</id>
+    <updated>2023-09-21T00:00:00Z</updated>
+    <published>2023-09-21T00:00:00Z</published>
+    <summary>LABOR — Layer-Neighbor Sampling for GNNs — accepted at NeurIPS.</summary>
+  </entry>
+
+  <entry>
+    <title>NVIDIA DevTech AI internship — TensorRT-LLM FP8</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2023-06:nvidia-fp8</id>
+    <updated>2023-06-01T00:00:00Z</updated>
+    <published>2023-06-01T00:00:00Z</published>
+    <summary>Returned to NVIDIA as a DevTech AI intern, working on FP8 quantization in TensorRT-LLM.</summary>
+  </entry>
+
+  <entry>
+    <title>LABOR Sampling shipped in DGL</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2023-03:labor-dgl</id>
+    <updated>2023-03-01T00:00:00Z</updated>
+    <published>2023-03-01T00:00:00Z</published>
+    <summary>LABOR Sampling shipped as part of the DGL framework.</summary>
+  </entry>
+
+  <entry>
+    <title>NVIDIA DevTech AI internship</title>
+    <link href="https://mfbal.in/#news"/>
+    <id>tag:mfbal.in,2022-06:nvidia-intern</id>
+    <updated>2022-06-01T00:00:00Z</updated>
+    <published>2022-06-01T00:00:00Z</published>
+    <summary>Joined NVIDIA as a DevTech AI intern.</summary>
+  </entry>
+</feed>
