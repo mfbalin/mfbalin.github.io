@@ -16,11 +16,10 @@ Then open <http://127.0.0.1:8000/>.
 ## Deploy
 
 ```bash
-./deploy.sh
+git add -A && git commit && git push
 ```
 
-The script stages everything, commits, and pushes. GitHub Pages picks up the
-change within a minute.
+GitHub Pages picks up the change within a minute.
 
 ## Layout
 
@@ -33,5 +32,4 @@ mfbalin_cv.pdf           — CV
 mfbalin_phd_diploma.pdf  — Ph.D. diploma
 keybase.txt              — Keybase identity proof for mfbal.in
 CNAME                    — custom domain for GitHub Pages
-deploy.sh                — git add + commit + push
 ```
