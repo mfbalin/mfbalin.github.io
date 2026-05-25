@@ -1,13 +1,10 @@
-rm -rf docs
+#!/usr/bin/env bash
+# Deploy: commit and push. GitHub Pages serves the repo root on main.
 
-npm run build
+set -euo pipefail
 
-mv build docs
+cd "$(dirname "$0")"
 
-echo "mfbal.in" > docs/CNAME
-
-git add docs public src
-
-git commit -m "Update"
-
+git add -A
+git commit -m "Deploy site"
 git push
