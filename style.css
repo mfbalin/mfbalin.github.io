@@ -433,6 +433,15 @@ strong {
   margin: 0;
 }
 
+.edu-verify {
+  font-size: 0.8em;
+  color: var(--fg-faint);
+}
+
+.edu-verify:hover {
+  color: var(--accent);
+}
+
 @media (max-width: 600px) {
   .edu-head {
     flex-direction: column;
